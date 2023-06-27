@@ -2,3 +2,4 @@
 *.txt
 .python-version
 **/__pycache__/**
+.venv
